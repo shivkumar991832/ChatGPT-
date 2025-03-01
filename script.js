@@ -8,7 +8,7 @@ let userMessage = null;
 
 
 
-let api_url ='https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyB0b66DjPBpsOqPy1KDMYsuZCqaZ1yHIzY';
+// let api_url ='https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyB0b66DjPBpsOqPy1KDMYsuZCqaZ1yHIzY';
 // apikey = sk-f9310b1ef25e4b239c9b98bfc1c2e2c2
 
 
